@@ -1,0 +1,21 @@
+{
+  "name": "stsivin/yandex-news-rss-writer",
+  "description": "Generates RSS feed for Yandex news aggregator, see https://news.yandex.ru/",
+  "homepage": "https://github.com/sergeytsivin/yandex-news-rss-writer",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Sergey Tsivin",
+      "email": "sergey.tsivin@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "stsivin\\RssWriter\\": "src/"
+    }
+  }
+}
+
