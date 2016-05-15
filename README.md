@@ -47,6 +47,6 @@ print $feed->rss();
 
 ## License
 
-[MIT Licence](https://github.com/svpino/rfeed/blob/master/LICENSE)
+[MIT Licence](https://github.com/sergeytsivin/yandex-news-rss-writer/blob/master/LICENSE)
 
 Copyright (c) 2016 Sergey Tsivin
